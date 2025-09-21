@@ -7,3 +7,5 @@ Link del matris de informacion: https://uniminuto0-my.sharepoint.com/:x:/g/perso
 Link del Carpeta semillero: https://uniminuto0-my.sharepoint.com/:f:/g/personal/jasson_diaz_z_uniminuto_edu_co/En1PF9lFChJMpakvEyT7NqwBLPO32Opu_Gq3PBigk7s_Iw?e=oMPLKk
 
 Forma de busqueda nebase datos: https://www.proquest.com/myresearch/savedsearches.checkdbssearchlink:rerunsearch/2933235/SavedSearches/$N?_csrf=f44b0bd9-5333-4998-8b66-0ce810b303c8&t:ac=SavedSearches
+
+Link opcional de busqueda: https://www.proquest.com/results/D1F31AA615644EBAPQ/1?accountid=48797#
