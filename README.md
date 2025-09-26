@@ -8,4 +8,4 @@ Link del Carpeta semillero: https://uniminuto0-my.sharepoint.com/:f:/g/personal/
 
 Forma de busqueda nebase datos: https://www.proquest.com/myresearch/savedsearches.checkdbssearchlink:rerunsearch/2933235/SavedSearches/$N?_csrf=f44b0bd9-5333-4998-8b66-0ce810b303c8&t:ac=SavedSearches
 
-Link opcional de busqueda: https://www.proquest.com/results/D1F31AA615644EBAPQ/1?accountid=48797#
+Link opcional de busqueda: https://ezproxy.uniminuto.edu/login?url=https://www.proquest.com/search/2933906?accountid=48797
